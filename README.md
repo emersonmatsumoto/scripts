@@ -3,7 +3,7 @@
 ### Generate RSA private and public keys
 ./crypto/RSA/gen.sh
 
-Send decrypt.sh and public_key.pem
+Send encrypt.sh and public_key.pem
 
 ### Encrypt with public key
 ./encrypt.sh README.md
